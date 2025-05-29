@@ -2,7 +2,7 @@
 
 <br>
 
-## 📌 작품개요 
+## 📌 작품 설명 
 ### AI/IoT 융합 파충류 맞춤형 스마트 케어 시스템
 
 > 급성장 중인 파충류 시장에서 사육자들은 최적의 환경 조성과 지속적인 관리에 어려움을 겪고 있으며, <br>
@@ -17,6 +17,10 @@
 
 <br>
 
+<img width="1356" alt="Image" src="https://github.com/user-attachments/assets/c0392a3e-fe46-4913-ac49-da4549a5d2fd" />
+
+<br><br>
+
 ## 📌 시스템 아키텍쳐
 <img width="1378" alt="Image" src="https://github.com/user-attachments/assets/8024d5e9-7a9d-428a-82f0-d615d8a1aadb" />
 
@@ -29,6 +33,6 @@
 > 개발 도구 : AWS(EC2, RDS, S3), VSCode, Pycharm, PostgreSQL <br><br>
 > 개발 언어 : Python, Typescript <br>
 
-<img width="967" alt="image" src="https://github.com/user-attachments/assets/b6b3f9ae-324f-4797-8f9e-fe48f656fe96" />
+<img width="1059" alt="Image" src="https://github.com/user-attachments/assets/15f9e6d0-9251-474e-be41-ab39129eafc7" />
 
 <br>
