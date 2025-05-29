@@ -33,6 +33,11 @@
 > 개발 도구 : AWS(EC2, RDS, S3), VSCode, Pycharm, PostgreSQL <br><br>
 > 개발 언어 : Python, Typescript <br>
 
+<br><br>
+
+## 📌 핵심 포인트 및 시연 영상
+![Image](https://github.com/user-attachments/assets/11310c57-5341-4d3e-a303-0863d6009806)
+
 <br>
-시연영상
-https://youtu.be/iVq2nrFWF68
+
+**시연 영상** https://youtu.be/iVq2nrFWF68
