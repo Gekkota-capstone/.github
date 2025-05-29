@@ -22,7 +22,7 @@
 <br><br>
 
 ## 📌 시스템 아키텍쳐
-<img width="1378" alt="Image" src="https://github.com/user-attachments/assets/4984de26-7004-4ab4-a68f-92cc1dc2c8bc" />
+<img width="1378" alt="Image" src="https://github.com/user-attachments/assets/89776670-b5d6-4f0f-bffa-297cb73ce135" />
 
 <br><br>
 
@@ -32,7 +32,5 @@
 > 프레임워크 : FastAPI, Expo <br><br>
 > 개발 도구 : AWS(EC2, RDS, S3), VSCode, Pycharm, PostgreSQL <br><br>
 > 개발 언어 : Python, Typescript <br>
-
-<img width="1059" alt="Image" src="https://github.com/user-attachments/assets/15f9e6d0-9251-474e-be41-ab39129eafc7" />
 
 <br>
