@@ -34,3 +34,5 @@
 > 개발 언어 : Python, Typescript <br>
 
 <br>
+
+https://youtu.be/iVq2nrFWF68
