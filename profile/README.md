@@ -22,7 +22,7 @@
 <br><br>
 
 ## 📌 시스템 아키텍쳐
-<img width="1378" alt="Image" src="https://github.com/user-attachments/assets/8024d5e9-7a9d-428a-82f0-d615d8a1aadb" />
+<img width="1378" alt="Image" src="https://github.com/user-attachments/assets/4984de26-7004-4ab4-a68f-92cc1dc2c8bc" />
 
 <br><br>
 
